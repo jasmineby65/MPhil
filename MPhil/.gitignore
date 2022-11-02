@@ -1,0 +1,11 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.pdf
+*.png
+__pycache__/
+*.py[cod]
+.RData
+.Rhistory
+*.docx
